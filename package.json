@@ -1,8 +1,0 @@
-{
-  "name": "exodus",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@caprogramacion/fast": "^0.1.0"
-  }
-}
